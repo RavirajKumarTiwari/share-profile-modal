@@ -1,7 +1,9 @@
 # **Share Profile Modal**
+
 This is a simple website that displays a modal window for sharing your profile on social media. You can customize the modal with your name, photo, and links to your social media accounts.
 
 ## **Features**
+
 The Share Profile Modal website has the following features:
 
 - Simple and easy-to-use interface.
@@ -17,6 +19,7 @@ The Share Profile Modal allows users to share their profile with others via:
 - LinkedIn
 
 ## **Demo**
+
 - Website looks like this:
 
 ![Share Profile Website](./assets/Screenshot%20FullScreen.png)
@@ -29,7 +32,6 @@ The Share Profile Modal allows users to share their profile with others via:
 
 ## How to use
 
-
 To use this website, you need to:
 
 - Clone this repository or download the zip file
@@ -39,6 +41,7 @@ To use this website, you need to:
 - Click on Follow Me button to follow me on [LinkedIn](https://www.linkedin.com/in/raviraj-kumar-019956225/)
 
 ## **Technologies Used**
+
 The Share Profile Modal was created using the following technologies:
 
 - HTML
