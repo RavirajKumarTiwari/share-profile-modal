@@ -8,6 +8,10 @@ const openModal = () => {
   overlay.classList.add("overlayactive");
 };
 
+const followMe = () => {
+  return window.open("https://www.linkedin.com/in/raviraj-kumar-019956225/");
+};
+
 // Modal close function
 const closeModal = () => {
   modal.classList.remove("active");
