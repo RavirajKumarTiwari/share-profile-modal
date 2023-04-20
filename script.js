@@ -17,4 +17,3 @@ const closeModal = () => {
   modal.classList.remove("active");
   overlay.classList.remove("overlayactive");
 };
-// Teshting
